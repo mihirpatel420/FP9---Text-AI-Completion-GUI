@@ -13,6 +13,7 @@ A simple GUI application that allows users to interact with OpenAI's GPT-3.5-tur
    - Create an account at [OpenAI](https://platform.openai.com/) if you don't have one
    - Generate an API key from your OpenAI dashboard
    - Create a `.env` file and insert in the first line OPENAI_API_KEY=xyz123 (note: let the example xyz123 be your personal valid API key from OpenAI)
+   - be sure that the changes to the `.env` are saved before running the application. (You may need to try to close the application to save the changes to `.env`.
 
 3. Run the application:
    ```bash
